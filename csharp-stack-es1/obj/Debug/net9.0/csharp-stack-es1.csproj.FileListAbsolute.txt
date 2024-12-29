@@ -1,0 +1,14 @@
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/bin/Debug/net9.0/csharp-stack-es1
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/bin/Debug/net9.0/csharp-stack-es1.deps.json
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/bin/Debug/net9.0/csharp-stack-es1.runtimeconfig.json
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/bin/Debug/net9.0/csharp-stack-es1.dll
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/bin/Debug/net9.0/csharp-stack-es1.pdb
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/obj/Debug/net9.0/csharp-stack-es1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/obj/Debug/net9.0/csharp-stack-es1.AssemblyInfoInputs.cache
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/obj/Debug/net9.0/csharp-stack-es1.AssemblyInfo.cs
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/obj/Debug/net9.0/csharp-stack-es1.csproj.CoreCompileInputs.cache
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/obj/Debug/net9.0/csharp-stack-es1.dll
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/obj/Debug/net9.0/refint/csharp-stack-es1.dll
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/obj/Debug/net9.0/csharp-stack-es1.pdb
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/obj/Debug/net9.0/csharp-stack-es1.genruntimeconfig.cache
+/Users/paoloorazi/Desktop/csharp-stack-es1/csharp-stack-es1/obj/Debug/net9.0/ref/csharp-stack-es1.dll
